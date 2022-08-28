@@ -1,1 +1,2 @@
 learning Git and Github from Angela Yu, Date-27/08/22
+learning how to branch and merge,Date-28/08/22
